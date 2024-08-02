@@ -1,0 +1,5 @@
+﻿  SaperGame.cpp
+D:\C++\SaperGame\SaperGame\SaperGame.cpp(10,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\C++\SaperGame\SaperGame\SaperGame.cpp(10,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\C++\SaperGame\SaperGame\SaperGame.cpp(237,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SaperGame.vcxproj -> D:\C++\SaperGame\x64\Debug\SaperGame.exe

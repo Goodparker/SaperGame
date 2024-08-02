@@ -1,0 +1,8 @@
+﻿  SaperGame.cpp
+D:\C++\SaperGame\SaperGame\SaperGame.cpp(7,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\C++\SaperGame\SaperGame\SaperGame.cpp(7,20): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SaperGame.vcxproj -> D:\C++\SaperGame\x64\Release\SaperGame.exe
